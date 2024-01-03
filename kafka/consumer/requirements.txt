@@ -1,0 +1,6 @@
+kafka-python
+aiokafka
+flask-kafka
+redis
+Flask==2.0.1
+flask-cors==3.0.6
